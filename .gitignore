@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+_cache/
+_user_meta.json
+*.tif
+*.png.tmp
+.DS_Store
