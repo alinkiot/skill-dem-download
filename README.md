@@ -51,7 +51,7 @@ cd skill-dem-download
 pip install -r requirements.txt        # rasterio / shapely / numpy / requests / tqdm / Pillow / pyproj
 ```
 
-作为智能体 Skill 使用时，把整个目录放进技能目录（如 `~/.workbuddy/skills/cn-dem`）即可，入口说明在 [`SKILL.md`](SKILL.md)。
+作为智能体 Skill 使用时，把整个目录放进技能目录（如 `~/.workbuddy/skills/skill-dem-download`）即可，入口说明在 [`SKILL.md`](SKILL.md)。
 
 ## 快速开始
 
